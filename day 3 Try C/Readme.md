@@ -1,5 +1,7 @@
 # Trying out C & more, lower level stuff
 
+* u céčka mě překvapilo bezproblémové kódování české diakritiky
+
 - tomorrow, try to rewrite with pointers instead arrays, and show progress bar
 - then try to rewrite into C++, Rust, Go, Haskell.. Just to know the differencies and which low level language you like the most
 
