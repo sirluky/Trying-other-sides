@@ -5,6 +5,7 @@ import "fmt"
 func main() {
 	var cislo int
 	
+	fmt.Print("Zadejte cislo: ");
 	fmt.Scan(&cislo)
 
 	var vysledek  = 1
@@ -13,5 +14,5 @@ func main() {
 		vysledek *= i;
 	}
 
-	fmt.Println("Hello World !!! 🎈🎆" , vysledek);
+	fmt.Printf("Faktorial je: %v \n",vysledek)
 }
