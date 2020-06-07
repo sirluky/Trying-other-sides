@@ -12,7 +12,7 @@ int main()
 
   time(&rawtime);
   timeinfo = localtime(&rawtime);
-  printf("Aktuální čas a datum je ... : %s", asctime(timeinfo));
+  printf("Aktuální čas a datum je ... hmm .. : %s", asctime(timeinfo));
 
   int cislo;
   unsigned long vysledek = 1;
